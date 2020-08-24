@@ -1,2 +1,2 @@
 # Web-Server-Application
-khong con gi de noi, chon huong Mang la sai lam cua toi, qua mon please
+khong con gi de noi rot mang may tinh nang cao huhu diz me do hoang cuong fck u
