@@ -1,0 +1,7 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\WebServerApplication\WebServerApplication\bin\Debug\WebServerApplication.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\WebServerApplication\WebServerApplication\bin\Debug\WebServerApplication.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\WebServerApplication\WebServerApplication\obj\x86\Debug\WebServerApplication.FormMain.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\WebServerApplication\WebServerApplication\obj\x86\Debug\WebServerApplication.Properties.Resources.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\WebServerApplication\WebServerApplication\obj\x86\Debug\WebServerApplication.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hoang Phuc\Desktop\WebServerApplication\WebServerApplication\obj\x86\Debug\WebServerApplication.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\WebServerApplication\WebServerApplication\obj\x86\Debug\WebServerApplication.pdb
